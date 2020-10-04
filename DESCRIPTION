@@ -16,3 +16,5 @@ Suggests:
     testthat
 Imports: 
     dplyr
+URL: https://github.com/palindali/freetext
+BugReports: https://github.com/palindali/freetext/issues
